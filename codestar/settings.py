@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django_summernote',
     'blog',
 ]
 
@@ -90,7 +91,7 @@ DATABASES = {
 }
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://8000-ciarangriffi-djangoblog-d40sf4q7aik.ws.codeinstitute-ide.net'
+    'https://8000-ciarangriffi-djangoblog-f68urxd8c3c.ws.codeinstitute-ide.net'
 ]
 
 # Password validation
